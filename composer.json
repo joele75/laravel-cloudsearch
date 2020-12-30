@@ -1,5 +1,5 @@
 {
-  "name": "torann/laravel-cloudsearch",
+  "name": "joele75/laravel-cloudsearch",
   "type": "library",
   "description": "Index and search Laravel models on Amazon's CloudSearch.",
   "keywords": [
@@ -10,7 +10,7 @@
     "laravel",
     "search"
   ],
-  "homepage": "https://github.com/Torann/laravel-cloudsearch",
+  "homepage": "https://github.com/joele75/laravel-cloudsearch",
   "license": "BSD-2-Clause",
   "authors": [
     {
